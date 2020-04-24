@@ -36,7 +36,7 @@
 17. Ya logrado el objetivo principal del trabajo queda subir la carpeta a nuestro repositorio personal en **Github**.
 
 
-Bibliografía utilizada:
+**Bibliografía utilizada:**
 
 Git101.pdf 
 
