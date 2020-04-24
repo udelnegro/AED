@@ -1,3 +1,6 @@
+**README**
+
+
 1. Nos encargamos de la selección, instalación y editor de código (IDE) que utilizaremos.
 
 2. Seleccionamos, instalamos y configuramos el compilador de **C ++**, en mi caso estoy usando el **MinGW**.
