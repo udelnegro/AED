@@ -1,26 +1,40 @@
-El primer paso se basa en la selección, instalación y del editor de código que utilizaremos
-Seleccionamos, instalamos y configuramos el compilador de C++ en mi caso estoy utilizando el MinGW
-Una vez configurado y funcionando  todas las herramientas necesarias procedemos a escribir el código
-El código lo iniciamos con una breve descripción  del título , mi nombre y apellido y la última fecha de edición
-Lo del paso anterior lo realizamos  entre los siguiente caracteres /* descripción breve */ lo que permiten que el compilador no lo lea pero que sin embargo forme parte del código
-Empezamos el código con un #Include que va a inlcuir en el proceso de pre-compilación las instrucciones que esten dentro de nuestro código
-Luego indicamos la función main () y abrimos las llaves que incluyen el bloque de código el cual va a indicar que hacer
-Una vez que terminamos el código pasamos a compilar para eso en mi caso lo hago desde la consola o cmd (tengo Windows)
-Lo primero que hacemos es seleccionar el directorio el cual esta nuestra carpeta "00-HelloWorld" para eso utilizamos el comando cd (change directory) y pegamos la dirección donde esta la carpeta
-Aplicamos el comando para compilar en mi caso es g++ -o hello hello.cpp , el cual nos va a generar la aplicación hello.exe (el ejecutable)
-Citamos "hello.exe" y le damos a enter 
-Si todo esta bien, que si se hizo el hello.exe no debería existir una gran problemática el programa nos mostrará la frase que le hayamos indicado
-Cuando tengamos funcionando el programa el paso que sigue es generar el output.txt
-El output.txt lo generamos con el ejecutable de la siguiente manera "hello.exe > output.txt" y ENTER
-Automáticamente se genero el archivo de texto en el directorio que seleccionamos anteriormente 
-Para ver el archivo de texto generado podemos abrirlo en el directorio o en la misma consola podemos poner "type output.txt" y va a generar ese texto
-Ya logrado el objetivo principal del trabajo queda subir la carpeta a nuestro repositorio
+1. Nos encargamos de la selección, instalación y editor de código (IDE) que utilizaremos.
+
+2. Seleccionamos, instalamos y configuramos el compilador de **C ++**, en mi caso estoy usando el **MinGW**.
+
+3. Una vez configurado y funcionando nuestras herramientas procedemos a escribir el código.
+
+4. El código lo iniciaremos con una breve descripción del título, mi nombre, apellido y la última fecha de edición.
+
+5. **Lo mencionado en el paso Nº 4 lo realizamos entre los siguientes caracteres / * caracteres * /, lo anotamos de esta manera para que el compilador no lo lea, pero, sin embargo forme parte del código**.
+
+6. Se empieza el código con un **"#Include <iostream>"** este se encarga de incluir en el proceso de pre-compilación las instrucciones que estén dentro de nuestro código.
+
+7. Acto seguido indicamos la función principal **"int main ()"** y abrimos las llaves **{ }** que incluyen el bloque de código el cual va a indicar que hacer.
+
+8. Una vez que terminado el código pasamos a compilar, para ello utilizare la consola o cmd (en Windows), no es el único modo de compilar. 
+
+9. Seleccionamos el directorio en el cual este la carpeta **"00-HelloWorld"** para eso utilizamos el comando cd (cambiar directorio o change directory) y haremos el paste de la dirección donde se encuentra la carpeta.
+
+10. Se aplica el comando para compilar en mi caso es **g ++ -o hello.cpp hello.exe** (hay más formas en cuanto a la notación), el cual nos va a generar la aplicación **hello.exe (archivo ejecutable)**.
+
+11. Citamos "hello.exe" y le damos a enter.
+
+12. Si todo está bien, que si se creó el archivo ejecutable hello.exe no debería existir una gran problema, el programa nos mostrara la frase que hayamos indicado.
+
+13. Cuando se chequeo el funcionamiento del programa se generará el **output.txt**.
+
+14. El output.txt se genera con el ejecutable de la siguiente manera **"hello.exe > output.txt"** y ENTER , el símbolo mayor indica redireccionamiento de datos al formato indicado en este caso es el **.txt**.
+
+15. Automáticamente se genera el archivo de texto en el directorio que seleccionamos anteriormente. 
+
+16. Para ver el archivo de texto generador podemos abrirlo en el directorio o en la misma consola podemos poner **"type output.txt"** y va a mostrarnos el contenido del archivo de texto.
+
+17. Ya logrado el objetivo principal del trabajo queda subir la carpeta a nuestro repositorio personal en **Github**.
+
 
 Bibliografía utilizada:
 
-Git101.pdf
-Aed Assigments.pdf 
-https://josemariasola.wordpress.com/papers/ -> Compiladores, Editores y Entornos de Desarrollo: Instalación , Configuración y Prueba
+Git101.pdf 
 
-
-a
+Aed Assigments.pdf https://josemariasola.wordpress.com/papers/ -> Compiladores, Editores y Entornos de Desarrollo: Instalación, Configuración y Prueba
