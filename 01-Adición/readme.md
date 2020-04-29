@@ -79,12 +79,12 @@ int main () {
  1. Llamamos a la biblioteca en la cual van a estar incluidas nuestras funciones ***#Include <iostream>***
  2. Utilizaremos la función int main , la anotamos y procedemos a comenzar a escribir en el bloque de código
  3. En mi caso aunque el ejercicio como tal no lo pedía. Procedí a agregar un par de lineas de código de más para darle una breve instrucción a nuestro usuario
-4. Pongo la función ~~~std::cin >> "NombreDeValor"~~~ que no lo vimos en trabajos anteriores, lo que indica es que la proxima información de entrada que se le de al programa va a tomar el valor de A en este caso sería un número entero
+4. Pongo la función ~~~ std::cin >> "NombreDeValor" ~~~ que no lo vimos en trabajos anteriores, lo que indica es que la proxima información de entrada que se le de al programa va a tomar el valor de A en este caso sería un número entero
 ***NOTA: Notese los signos mayor que indican la extracción de información y tomarlo como valor del int***
 5. Una vez ingresado el valor A ya tiene el valor, lo lee y lo guarda en A
 6. Repito procedimiento con valor B
 7. Y ahora le indico al programa que una vez que tenemos los dos valores enteros pase a escribirnos y mostrarnos en pantalla el valor de A+B 
-8. Lo nombrado en el paso Nº 7 lo realizaremos con la función ~~~std::cout<<"NombreDeValor1+NombreDeValor2";~~~
+8. Lo nombrado en el paso Nº 7 lo realizaremos con la función ~~~ std::cout<<"NombreDeValor1+NombreDeValor2"; ~~~
 
 ***NOTA: LOS SIGNOS ; DEBEN IR SIEMPRE LUEGO DE UNA FUNCIÓN DADO QUE SINO GENERARA UN ERROR***
 
