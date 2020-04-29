@@ -86,8 +86,9 @@ int main () {
 7. Y ahora le indico al programa que una vez que tenemos los dos valores enteros pase a escribirnos y mostrarnos en pantalla el valor de A+B 
 8. Lo nombrado en el paso Nº 7 lo realizaremos con la función ~~~std::cout<<"NombreDeValor1+NombreDeValor2";~~~
 
-***NOTA: LOS SIGNOS ; DEBEN IR SIEMPRE LUEGO DE UNA FUNCIÓN DADO QUE SINO GENERARA UN ERROR
+***NOTA: LOS SIGNOS ; DEBEN IR SIEMPRE LUEGO DE UNA FUNCIÓN DADO QUE SINO GENERARA UN ERROR***
 
 ***DEL NEGRO, URIEL - K1051 - AED - 01-Adición***
 
 
+~~~prueba~~~
