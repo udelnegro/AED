@@ -30,27 +30,36 @@ Este lo utilizamos para darle dominio a nuestro problema como los pasos anterior
 
 Llamamos léxico a la definición de elementos utilizados en el algoritmo, es decir, le damos un dominio a la solución pensandola como una función matemática podriamos decir que para nuestra función que:
 
-*** a,b e Z*** 
+***a,b e Z*** 
 
-***NOTA: TOMAMOS A "e" como el símbolo pertenece 
+***NOTA: TOMAMOS A "e" como el símbolo pertenece*** 
 
 ## **Representación del Algoritmo**
 
 ### **Representación Visual** 
 
+Hay varias formas de representarlas visualmente pero yo elegí dos, demostradas a continuación:
+
+Pseudocódigo:
+
 ![PseudoCódigo](https://github.com/udelnegro/Imagenes/blob/master/01-Adici%C3%B3n/Representaci%C3%B3n%20Visual%20del%20Algoritmo/Pseudoc%C3%B3digo.png)
+
+Diagrama de Flujo:
 
 ![Diagrama de Flujo](https://github.com/udelnegro/Imagenes/blob/master/01-Adici%C3%B3n/Representaci%C3%B3n%20Visual%20del%20Algoritmo/Diagrama%20de%20Flujo/Diagrama%20de%20flujo.jpg)
 
 ### **Representación Textual**
 
-1. Leer valor de A
-2. Leer valor de B
+La podemos representar enumerando los pasos y escribiendolo de manera sencilla
+
+1. Leer un entero y almacenarlo en A
+2. Leer un entero y almacenarlo en B
 3. Escribir A+B
 
-Tambien lo podemos representar textualmente al algoritmo de la forma Textual C++
+O también lo podemos representar de la forma Textual C++
 
-~~~int main () {
+~~~
+int main () {
 
     int ValorA ; 
     int ValorB ;
