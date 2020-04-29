@@ -1,6 +1,9 @@
 # Algoritmos y Estructuras de Datos
-> K1051
-> 1er Año
->1733837
->Del Negro
-> Uriel
+---
+- Curso:K1051
+
+- Año: 1er Año
+
+- Legajo: 1733837
+
+- Alumno: Uriel Del Negro
