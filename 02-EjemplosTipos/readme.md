@@ -29,7 +29,7 @@ Teniendo en claro que no habrá salida el objetivo principal, además de ejempli
 
 ---
 
-##Diseño de la solución
+## Diseño de la solución
 
 ### Léxico del Algoritmo
 
