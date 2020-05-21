@@ -2,11 +2,12 @@
 de Tipos de Datos
 Uriel Del Negro
 21-05-2020
+https://github.com/udelnegro/AED/tree/master/02-EjemplosTipos
 */
 
 #include <iostream>
 #include <cassert>
-#include <math.h>
+
 
 using namespace std;
 
@@ -47,18 +48,7 @@ int main ()
     assert (miNombreCompleto == "Uriel Del Negro");  // Se corta si cambian mi nombre 
     assert ((pi - 2.0) >= 0.5);	 // Se corta si la resta es menor a 1/2
 
-    /*  Justificación de: ¿Son esos realmente todos los tipos que vimos en clase? Justifique.
-
-    No, nos son los únicos de tipos de datos que existen, en sí todo puede ser considerado un tipo de dato
-    Pero para dar ejemplos más directos de otros tipos de datos tenemos por ejemplo:
-
-    - Float, es un dato real de precisión simple
-    - Date, se utiliza para las fechas
-    - Money o Currency, se utiliza para lo financiero
-    - Numeros complejos, se utiliza para representar numeros complejos valga la redundancia    
-    Entre otros... 
-    */
-
     return 0;
 
  }
+
