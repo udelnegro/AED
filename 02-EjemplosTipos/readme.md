@@ -53,7 +53,7 @@ El léxico de nuestro algoritmo va a incluir los dominions de los tipos de datos
   //Estas nos permiten utilizar mas adelante algunas funciones como el assert <cassert>
   //O imprimir en pantalla si quisieramos, y utilizar el using namespace std <iostream> 
 2. Llamamos a la biblioteca "using namespace std"
-  //Lo que hara que a la hora de utilizar los strings no tenga que poner ´std::strin´
+  //Lo que hara que a la hora de utilizar los strings no tenga que poner `std::string`
 3. Abrimos la función int main(){ y escribimos el bloque de código
 4. Creamos variables y le asignamos valores
 5. Con todas las variables definidas pasamos a realizar algunas operaciones fuera del "assert"
