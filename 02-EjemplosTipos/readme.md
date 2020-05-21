@@ -33,7 +33,7 @@ Teniendo en claro que no habrá salida el objetivo principal, además de ejempli
 
 ### Léxico del Algoritmo
 
-El léxico de nuestro algoritmo va a incluir los dominions de los tipos de datos:
+El léxico de nuestro algoritmo va a incluir los dominios de los tipos de datos:
 
 - Números reales (Incluidos en el , naturales , enteros, racionales, y demás)
 - El Código ASCII
